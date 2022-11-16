@@ -1,3 +1,3 @@
 # GT2022
 
- Pagina de prezentare filme
+ Descriere "Pagina de prezentare filme"
